@@ -8,3 +8,9 @@ El propósito subyacente de este proyecto es mejorar la prevención de delitos y
 Este proyecto se implementará inicialmente como un estudio piloto, con el objetivo de evaluar su efectividad en términos de precisión de predicción y aplicabilidad práctica. Dependiendo de los resultados obtenidos, se contemplarán futuras mejoras y expansiones de la metodología, así como posibles extensiones de su alcance a otras áreas geográficas o tipos de delitos.
 
 La elección de las Redes Neuronales Recurrentes como base para el modelo se debe a su capacidad para manejar datos secuenciales y temporales, que son esenciales en el análisis de series temporales de delitos, buscando que la capacidad de las RNN para capturar dependencias a largo plazo y patrones temporales complejos en los datos, permita generar predicciones precisas y útiles para la prevención del delito.
+
+Fuente de Datos publica
+
+https://analitica.scj.gov.co/analytics/saw.dll?PortalPages&PortalPath=%2fshared%2fOAIEE%2fSIEDCO%2fSiedco%20Datos%20Tabulados&Done=close&NQUser=publico&NQPassword=publico2019
+Usuario: publico
+Contraseña: publico2019
